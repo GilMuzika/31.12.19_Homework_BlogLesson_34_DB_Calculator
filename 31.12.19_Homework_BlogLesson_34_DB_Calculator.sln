@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31.12.19_Homework_BlogLesson_34_DB_Calculator", "31.12.19_Homework_BlogLesson_34_DB_Calculator\31.12.19_Homework_BlogLesson_34_DB_Calculator.csproj", "{8C1C7662-2E49-4FA1-9314-74A0E98CCEAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C1C7662-2E49-4FA1-9314-74A0E98CCEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C1C7662-2E49-4FA1-9314-74A0E98CCEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C1C7662-2E49-4FA1-9314-74A0E98CCEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C1C7662-2E49-4FA1-9314-74A0E98CCEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAC7EE37-8334-434B-A7D8-4BE10B85D234}
+	EndGlobalSection
+EndGlobal
